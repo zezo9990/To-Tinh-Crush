@@ -1,6 +1,6 @@
 const CONFIG = {
     introTitle: 'QUỲNH À !',
-    introDesc: `Trái đất vốn lạ thường
+    introDesc: `TRÁI đất vốn lạ thường
     nên lâu lâu tao ngu dốt đến mức làm
     mày giận
     btnIntro: 'LÀM SAO'
@@ -11,8 +11,8 @@ const CONFIG = {
     question:'IU TEO NÊN MỚI THA LỖI PHẢI HONG <3',
     btnReply: 'HEHE <3',
     reply: 'ĐÚNG RỒI THÌ SEO <33333333',
-    mess: TUI BIK MÀ  😘😘',
-    messDesc: 'THẾ LÀM HÒA R NHA.',
+    mess: TUI BIK MÀ 😘😘',
+    messDesc: 'THẾ LÀM HÒA RỒI NHA.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100014412360846
 }
