@@ -2,8 +2,8 @@ const CONFIG = {
     introTitle: 'QUỲNH À !',
     introDesc: ` lâu lâu tao ngu dốt đến mức làm
     mày giận',
-    btnIntro:'LÀM SAO',
-    title: 'THA LỖI ĐI MÀ 😙',
+    btnIntro:'làm sao
+    title: 'tha lỗi đi mà',
     desc:'THA LỖI CHO CON NGƯỜI NGU DỐT CỦA TUI NHA <3 ',
     btnYes: 'NỐT LẦN NÀY THÔI NHÁ <33',
     btnNo: 'DELL NHA :3',
