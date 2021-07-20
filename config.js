@@ -2,7 +2,7 @@ const CONFIG = {
     introTitle: 'QUỲNH À !',
     introDesc: ` lâu lâu tao ngu dốt đến mức làm
     mày giận',
-    btnIntro:'làm sao
+    btnIntro:'làm sao',
     title: 'tha lỗi đi mà',
     desc:'THA LỖI CHO CON NGƯỜI NGU DỐT CỦA TUI NHA <3 ',
     btnYes: 'NỐT LẦN NÀY THÔI NHÁ <33',
