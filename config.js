@@ -12,7 +12,7 @@ const CONFIG = {
     btnReply: 'HEHE <3',
     reply: 'ĐÚNG RỒI THÌ SEO <33333333',
     mess: TUI BIK MÀ 😘😘',
-    messDesc: 'THẾ LÀM HÒA RỒI NHA.',
-    btnAccept: 'Okiiiii lun <3',
+    messDesc:'TỐI QUA ĐÓN MÀY ĐI NHẬU.',
+    btnAccept:'Okiiiii lun <3',
     messLink: 'https://www.facebook.com/messages/t/100014412360846
 }
