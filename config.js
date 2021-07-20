@@ -3,8 +3,8 @@ const CONFIG = {
     introDesc: `TRÁI đất vốn lạ thường
     nên lâu lâu tao ngu dốt đến mức làm
     mày giận
-    btnIntro:'LÀM SAO'
-    title:'THA LỖI IK MÀ 😙',
+    btnIntro:'LÀM SAO',
+    title: 'THA LỖI ĐI MÀ 😙',
     desc:'THA LỖI CHO CON NGƯỜI NGU DỐT CỦA TUI NHA <3 ',
     btnYes: 'NỐT LẦN NÀY THÔI NHÁ <33',
     btnNo: 'DELL NHA :3',
